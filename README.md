@@ -31,5 +31,4 @@ For questions about the code, please contact me, Rahaf Aljundi (rahaf.aljundi@es
 
 ## License
 
-This software package is freely available for research purposes. Please check the LICENSE file for details.
-
+This software package is freely available for research purposes.
