@@ -18,7 +18,8 @@ Rahaf Aljundi, Francesca Babiloni, Mohamed Elhoseiny, Marcus Rohrbach and Tinne 
 
 
 For questions about the code, please contact me, Rahaf Aljundi (rahaf.aljundi@esat.kuleuven.be)
-
+## Requirements
+The code was built using pytorch version 0.3, python 3.5 and cuda 9.1
 ## Citation
 ```bibtex
 @article{aljundi2017memory,
