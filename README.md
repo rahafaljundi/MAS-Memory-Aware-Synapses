@@ -21,14 +21,7 @@ For questions about the code, please contact me, Rahaf Aljundi (rahaf.aljundi@es
 ## Requirements
 The code was built using pytorch version 0.3, python 3.5 and cuda 9.1
 ## Citation
-```bibtex
-@article{aljundi2017memory,
-  title={Memory Aware Synapses: Learning what (not) to forget},
-  author={Aljundi, Rahaf and Babiloni, Francesca and Elhoseiny, Mohamed and Rohrbach, Marcus and Tuytelaars, Tinne},
-  journal={arXiv preprint arXiv:1711.09601},
-  year={2017}
-}
-```
+Aljundi R., Babiloni F., Elhoseiny M., Rohrbach M., Tuytelaars T. (2018) Memory Aware Synapses: Learning What (not) to Forget. In:  Computer Vision – ECCV 2018. ECCV 2018. Lecture Notes in Computer Science, vol 11207. Springer, Cham
 
 ## License
 
